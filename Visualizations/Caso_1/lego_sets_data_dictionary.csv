@@ -1,0 +1,15 @@
+﻿Field,Description,
+set_id,Official LEGO item number,Número de artículo oficial de LEGO 
+name,Name of the LEGO set,Nombre del set LEGO 
+year,Release year,Año de lanzamiento
+theme,LEGO theme the set belongs to, Tema LEGO al que pertenece el set
+subtheme,Subtheme within the theme, Subtema dentro del tema 
+themeGroup,Overall group the theme belongs to,Grupo general al que pertenece el tema
+category,Type of set, Tipo de set 
+pieces,Number of pieces in the set,Número de piezas en el set 
+minifigs,Number of mini figures included in the set,Número de minifiguras incluidas en el set 
+agerange_min,Minimum age recommended,Edad mínima recomendada
+US_retailPrice,US retail price at launch, Precio de venta al público en EE. UU. en el momento del lanzamiento
+bricksetURL,URL for the set on brickset.com, URL del set en brickset.com 
+thumbnailURL,Small image of the set,Imagen pequeña del set
+imageURL,Full size image of the set, Imagen de tamaño completo del set
